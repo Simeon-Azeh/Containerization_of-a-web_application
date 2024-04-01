@@ -1,0 +1,20 @@
+{
+  "name": "catenizing_a_web_application",
+  "version": "1.0.0",
+  "description": "Store info",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simeon-Azeh/catenizing_a_web_application.git"
+  },
+  "author": "Simeon-Azeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simeon-Azeh/catenizing_a_web_application/issues"
+  },
+  "homepage": "https://github.com/Simeon-Azeh/catenizing_a_web_application#readme"
+}
