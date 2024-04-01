@@ -29,11 +29,11 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory.
 3. Build the Docker image using the provided Dockerfile:
    ```
-   docker build -t my-app .
+   docker build -t my-node-app .
    ```
 4. Run the Docker container:
    ```
-   docker run -p 8080:80 my-app
+   docker run -p 8080:80 my-node-app
    ```
 5. Open your web browser and navigate to `http://localhost:8080` to access the application.
 
